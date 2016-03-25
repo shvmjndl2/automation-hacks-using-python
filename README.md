@@ -1,4 +1,5 @@
 # automation-hacks-using-python 
-the automation hacks contain several automated hacks 
+ automation hacks contain several automated hacks 
 
-1. This automation hack is used to froward the latest email to the respective person of your gmail account
+1. Forwardtest.py this script is for forwarding the mails of your gmail account
+
